@@ -1,7 +1,7 @@
 ---
 title: Willkommen zur Themensammlung Notfallsanitäter
 ---
-Hier findet man alle Inhalte der dreijährigen Ausbildung (ohne Gewährleistung auf Vollständigkeit) gegliedert in die Felder:
+Hier findet man Inhalte der dreijährigen Ausbildung (ohne Gewährleistung auf Vollständigkeit) gegliedert in die Felder:
 
 [[Theorie_Einsatztaktik]]
 
