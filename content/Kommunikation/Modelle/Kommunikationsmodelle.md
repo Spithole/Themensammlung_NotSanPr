@@ -1,0 +1,5 @@
+- [ ] Sender-Empfänger
+- [ ] Vier Ohren einer Nachricht (Schulz-von-Thun)
+- [ ] Fünf Axiome (Watzlawick)
+- [ ] Transaktionsanalyse (Bernd)
+- [ ] Instanzmodell (Freud)

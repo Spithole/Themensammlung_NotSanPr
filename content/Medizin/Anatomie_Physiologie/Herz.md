@@ -1,0 +1,3 @@
+- Reizweiterleitung 
+- EKG
+- Kompensationsmechanismen

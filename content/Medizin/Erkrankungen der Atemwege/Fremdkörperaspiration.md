@@ -1,0 +1,4 @@
+- SAA Laryngoskopie
+- Bei Bewusstlosigkeit --> ALS / PLS
+- Wenn Husten Inneffektiv: 5x Rückenschläge; Reevaluation; Kind <1 J: Thoraxkompressionen; Kind >1J: Oberbauchkompressionen (5x)
+- Wenn ineffektiv: erneut im Wechsel 5x Rückenschläge, 5x Thorax/Oberbauchkompressionen

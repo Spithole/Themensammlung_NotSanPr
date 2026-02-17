@@ -1,0 +1,3 @@
+- [ ] Führungskreislauf
+- [ ] [[Lagefeststellung]]
+

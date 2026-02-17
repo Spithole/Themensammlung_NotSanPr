@@ -1,0 +1,6 @@
+- Klassifizierung Aortenaneurysma
+- Differentialdiagnosen
+- spezifische Anamnese und Diagnostik
+- Schmerztherapie
+- Kreislaufmanagement (RR Senkung)
+- Patientenkommunikation: Angstfrei und Schmerzfreier Patient!

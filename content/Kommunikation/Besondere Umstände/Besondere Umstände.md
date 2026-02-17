@@ -1,0 +1,4 @@
+- [ ] Integration, Inklusion, Gesellschaft
+- [ ] Maslowsche Bedürfnispyramide
+- [ ] Faktoren der Kommunikation
+- [ ] Johari-Fenster

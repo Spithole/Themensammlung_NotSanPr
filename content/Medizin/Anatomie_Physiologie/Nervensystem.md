@@ -1,0 +1,3 @@
+- Hirn
+- ZNS / PNS (topologisch)
+- Somatisch & Autonom (Physiologisch)

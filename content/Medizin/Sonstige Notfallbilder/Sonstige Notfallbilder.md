@@ -1,0 +1,4 @@
+- [ ] Hypothermie
+- [ ] Sepsis
+- [ ] Stromunfall
+- [ ] Thermische Verletzungen

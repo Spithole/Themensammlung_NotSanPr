@@ -1,0 +1,34 @@
+- Symptome
+	- Kaltschweißigkeit
+	- Schmerzcharakter ACS (OPQRST)
+		- Ausstrahlung Kiefer / Oberbauch / Arme / Schultern
+	- Angst / Unruhe
+	- ggf. Rhythmusstörungen
+	- Hypotonie
+	- Übelkeit
+	- Dyspnoe
+	- Schock
+- untypische Beschwerden bei:
+	- Diabetikern
+	- ältere Pat.
+	- Frauen
+	- Dementiellen
+	- fortgeschrittene Niereninsuffizienz
+- EKG
+	- STEMI-Kriterien
+		- ST Hebung in zwei benachbarten Extremitätenableitungen >0,1 mV
+		- ST Hebung in zwei ben. Brustwandableitungen >0,2 mV
+		- V2 / V3:
+			- Männer >40J: >0,25 mV
+			- Männer <40J: >0,2 mV
+			- Frauen: >0,15 mV
+		- V7 - V9: >0,05 mV
+		- alle übrigen BWAbl.: >0,1 mV (nach GRC)
+	- Infarktlokalisation
+		- V1 - V2: Septumsinfarkt (RIVA)
+		- V3 - V4: Rechtsherzinfarkt (RCA)
+		- V2 - V5: Vorderwandinfarkt (LAD, RIVA; proximal)
+		- II, III, aVF: Hinterwandinfarkt (RCA od. RCX) 
+		- I, aVL, V6: Seitenwandinfarkt (RCX)
+- Differentialdiagnostik
+- Therapie

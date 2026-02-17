@@ -1,0 +1,4 @@
+- Epithel-, Binde- und Stützgewebe
+- Fettgewebe
+- Neuron
+- Muskel

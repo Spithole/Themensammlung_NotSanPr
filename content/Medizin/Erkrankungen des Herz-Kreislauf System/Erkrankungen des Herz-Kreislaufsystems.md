@@ -1,0 +1,10 @@
+- [ ] Akutes Aortensyndrom
+- [ ] Akutes Koronarsyndrom
+- [ ] Anaphylaxie
+- [ ] Arterieller Verschluss / pAVK
+- [ ] Instabile Bradykardie
+- [ ] Instabile Tachykardie
+- [ ] kardiales Lungenödem
+- [ ] Lungenarterienembolie
+- [ ] Herzinsuffizienz
+- [ ] Hypertonie / Hypertensiver Notfall

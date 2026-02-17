@@ -1,0 +1,7 @@
+- [ ] Dyspnoe
+- [ ] kritische Blutung
+- [ ] Kurzzeitige Bewusstlosigkeit
+- [ ] Nichttraumatischer Brustschmerz
+- [ ] Schmerzen
+- [ ] Schock
+- [ ] Zentral neurologischen Defizit

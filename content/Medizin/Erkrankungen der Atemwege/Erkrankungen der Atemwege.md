@@ -1,0 +1,8 @@
+- [ ] Fremdkörperaspiration
+- [ ] Anaphylaxie
+- [ ] Bronchialobstruktion
+- [ ] Lungenarterienembolie
+- [ ] Asthma / COPD
+- [ ] Pneumonie
+- [ ] Überbegriff ARDS
+- [ ] kardiales Lungenödem

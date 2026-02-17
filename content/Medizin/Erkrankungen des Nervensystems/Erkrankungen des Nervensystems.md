@@ -1,0 +1,5 @@
+- [ ] Dehydratation
+- [ ] Hyperglykämie
+- [ ] Intoxikation
+- [ ] Krampfanfall
+- [ ] Schlaganfall / TIA / PRIND

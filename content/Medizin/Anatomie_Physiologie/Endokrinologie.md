@@ -1,0 +1,5 @@
+- Diabetes
+- Addison Krise
+- Phäochromozytom
+- Hyperthyreose
+- 
