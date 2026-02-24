@@ -1,6 +1,5 @@
 
-- [ ] Richtungsbezeichnungen
-- [ ] Körperachsen
+- [ ] [[Richtungsbezeichnungen]]
 - [ ] Terminologie
 - [ ] Chemie & Biochemie
 - [ ] Physik
