@@ -16,7 +16,7 @@
 > 	- Unachtsam, Leichtsinn
 > - Keine Strafe bei Unfall, höherer Gewalt
 
-> [!NOTE] #Wichtig §32 StGB --> Notwehr
+> [!NOTE]  §32 StGB --> Notwehr
 > 
 > - Verteidigungshandlung bei gegenwärtigem, rechtswidrigen Angriff auf Leib, Leben oder Eigentum ist gerechtfertigt, wenn
 > 	- Erforderlich
@@ -57,13 +57,13 @@
 > - Antrag des Geschädigten
 > - Frist: 3 Monate nach Tat
 
-> [!NOTE] #Wichtig  §201 StGB --> Verletzung der Vertraulichkeit des Wortes
+> [!NOTE] §201 StGB --> Verletzung der Vertraulichkeit des Wortes
 > 
 > - Abhören von Gesprächen
 > - Aufnahmen
 > - dürfen nicht an dritte verbreitet werden
 
-> [!NOTE] #Wichtig §202 StGB --> Verletzung des Briefgeheimnisses
+> [!NOTE] §202 StGB --> Verletzung des Briefgeheimnisses
 > 
 > - Unbefugtes Ausspähen, Abfangen und Öffnen
 > 	- Strafbar
@@ -92,7 +92,7 @@
 > 	- mehrere Täter
 > - Wird immer von der Polizei verfolgt, kein Einverständnis mgl.
 
-> [!NOTE] #Wichtig §228 StGB --> Rechtfertigende Einwilligung
+> [!NOTE] §228 StGB --> Rechtfertigende Einwilligung
 > 
 > - Zustimmung des Patienten
 > - Eingriff muss notwendig sein und verhältnismäßig
@@ -104,14 +104,14 @@
 > 	- Behandlungsfehler
 > 	- Fehlverhalten im Einsatz
 
-> [!NOTE] #Wichtig §267 --> Urkundenfälschung
+> [!NOTE] §267 --> Urkundenfälschung
 > 
 > - Fälschen oder Verfälschung einer Urkunde
 > - Gebrauch einer gefälschten Urkunde
 > - Täuschung im Rechtsverkehr
 > 
 
-> [!NOTE] #Wichtig §303 StGB --> Sachbeschädigung
+> [!NOTE] §303 StGB --> Sachbeschädigung
 > - Fremde Sachen zerstören / Beschädigen
 
 > [!NOTE] §315c StGB --> Gefährdung des Straßenverkehrs

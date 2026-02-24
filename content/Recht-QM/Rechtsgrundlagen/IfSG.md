@@ -14,7 +14,7 @@
 > 		- Gesundheitsamt
 > 		- LTS / NA
 
-> [!NOTE] #Wichtig §16 IfSG --> Maßnahmen zur Verhütung von übertragbaren Krankheiten
+> [!NOTE] §16 IfSG --> Maßnahmen zur Verhütung von übertragbaren Krankheiten
 > - Meldung am RD
 > - Hygienemaßnahmen
 > - Schutz der Einsatzkräfte
@@ -31,7 +31,7 @@
 - Einsatzbeschränkungen
 - Hygienevorgaben
 
-> [!NOTE] #Wichtig §36 IfSG --> Hygieneplan
+> [!NOTE] §36 IfSG --> Hygieneplan
 > 
 > - Verpflichtung zur Aufstellung von Hygieneplänen
 > - Regelmäßige Schulung
